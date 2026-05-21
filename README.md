@@ -50,21 +50,6 @@ The main goal of this repository is to:
 
 ---
 
-
-# 📂 Repository Structure
-
-```text
-leetcode-solutions-cpp/
-│
-├── README.md
-│
-├── 0001-1000/
-├── 1001-2000/
-├── 2001-3000/
-├── ...
-````
----
-
 # 📚 Problem Categories
 <p align=center>
 <img width="1231" height="516" alt="Image" src="https://github.com/user-attachments/assets/2e265d69-394e-4d25-9cef-9feeaeab2fe6" />
