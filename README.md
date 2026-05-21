@@ -173,5 +173,5 @@ leetcode-solutions-cpp/
 ---
 
 <div align="center">
-# ⭐ If you find this repository useful, feel free to star it!
+### ⭐ If you find this repository useful, feel free to star it!
 </div>
