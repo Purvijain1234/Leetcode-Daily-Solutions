@@ -69,6 +69,7 @@ The main goal of this repository is to:
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n)  | O(1)  |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-1000/0027_Remove_Element.cpp)                      | Easy       | O(n)  | O(1)  |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp) | Medium | O(log n) | O(1) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./0001-1000/0704_Binary_Search.cpp) | Easy | O(log n) | O(1) |
 
 ---
 
@@ -106,6 +107,7 @@ The main goal of this repository is to:
 | -- | ----------------------------------------------- | ---------------------------------- | ---------- | -------- | ----- |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp) | Medium | O(log n) | O(1) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./0001-1000/0069_Sqrt_x.cpp) | Easy       | O(log n) | O(1)  |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./0001-1000/0704_Binary_Search.cpp) | Easy | O(log n) | O(1) |
 
 ---
 
