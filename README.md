@@ -97,6 +97,7 @@ The main goal of this repository is to:
 
 | #  | Problem                                                               | Solution                                      | Difficulty | Time     | Space |
 | -- | --------------------------------------------------------------------- | --------------------------------------------- | ---------- | -------- | ----- |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./0001-1000/0002_Add_Two_Numbers.cpp) | Medium | O(max(n, m)) | O(max(n, m)) |
 | 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)     | [C++](./0001-1000/0007_Reverse_Integer.cpp)   | Medium     | O(log n) | O(1)  |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./0001-1000/0009_Palindrome_Number.cpp) | Easy       | O(log n) | O(1)  |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | [C++](./0001-1000/0013_Roman_to_Integer.cpp)  | Easy       | O(n)     | O(1)  |
@@ -118,8 +119,8 @@ The main goal of this repository is to:
 
 | #  | Problem                                                                                                   | Solution                                                        | Difficulty | Time | Space |
 | -- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- | ---- | ----- |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-0100/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n) | O(1)  |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-0100/0027_Remove_Element.cpp)                      | Easy       | O(n) | O(1)  |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n) | O(1)  |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-1000/0027_Remove_Element.cpp)                      | Easy       | O(n) | O(1)  |
 
 ---
 
@@ -127,7 +128,8 @@ The main goal of this repository is to:
 
 | #  | Problem                                                                         | Solution                                           | Difficulty | Time     | Space |
 | -- | ------------------------------------------------------------------------------- | -------------------------------------------------- | ---------- | -------- | ----- |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./0001-0100/0021_Merge_Two_Sorted_Lists.cpp) | Easy       | O(n + m) | O(1)  |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./0001-1000/0002_Add_Two_Numbers.cpp) | Medium | O(max(n, m)) | O(max(n, m)) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./0001-1000/0021_Merge_Two_Sorted_Lists.cpp) | Easy       | O(n + m) | O(1)  |
 
 ---
 
