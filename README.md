@@ -74,6 +74,7 @@ The main goal of this repository is to:
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp) | Easy | O(m × n) | O(r × c) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./0001-1000/0704_Binary_Search.cpp) | Easy | O(log n) | O(1) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp) | Easy | O(n) | O(1) |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [C++](./2001-3000/2126_Destroying_Asteroids.cpp) | Medium | O(n log n) | O(1) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp) | Easy | O(n × d) | O(1) |
 
 ---
@@ -153,8 +154,8 @@ The main goal of this repository is to:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 15     |
-| Medium     | 3      |
-| Hard       | 0      |
+| Medium     | 4      |
+| Hard       | 1      |
 
 ---
 
