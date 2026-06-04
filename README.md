@@ -112,6 +112,7 @@ The main goal of this repository is to:
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./0001-1000/0066_Plus_One.cpp) | Easy | O(n) | O(1) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                       | [C++](./0001-1000/0069_Sqrt_x.cpp)            | Easy       | O(log n) | O(1)  |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp) | Easy | O(n × d) | O(1) |
+| 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp) | Medium | O((num2 - num1 + 1) × d) | O(d) |
 
 
 ---
@@ -157,7 +158,7 @@ The main goal of this repository is to:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 16     |
-| Medium     | 5      |
+| Medium     | 6      |
 | Hard       | 1      |
 
 ---
