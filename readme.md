@@ -1,8 +1,8 @@
+<div align="center">
+    
 # 🚀 LeetCode Daily Solutions in C++
 
-<div align="center">
-
-# 👩‍💻 Purvi Jain
+# By Purvi Jain
 
 ### Solving LeetCode Daily Challenges • Mastering DSA • Building Consistency
 
@@ -28,7 +28,7 @@ This repository documents my daily problem-solving journey, interview preparatio
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
@@ -44,38 +44,9 @@ This repository documents my daily problem-solving journey, interview preparatio
 
 This repository contains my solutions to LeetCode Daily Challenges written in **C++**.
 
-Each solution includes:
+**Each solution includes:** Clean and readable code, Problem classification, Time Complexity analysis, Space Complexity analysis, Optimized approaches whenever possible.
 
-* Clean and readable code
-* Problem classification
-* Time Complexity analysis
-* Space Complexity analysis
-* Optimized approaches whenever possible
-
-The goal of this repository is to:
-
-* Master Data Structures & Algorithms
-* Improve problem-solving skills
-* Prepare for coding interviews
-* Maintain coding consistency
-* Build a structured revision resource
-
----
-
-# 📂 Repository Structure
-
-```text
-leetcode-daily-solutions-cpp/
-│
-├── README.md
-│
-├── 0001-1000/
-├── 1001-2000/
-├── 2001-3000/
-├── 3001-4000/
-│
-└── ...
-```
+**The goal of this repository is to:** Master Data Structures & Algorithms, Improve problem-solving skills, Prepare for coding interviews, Maintain coding consistency, Build a structured revision resource.
 
 ---
 
@@ -91,23 +62,10 @@ leetcode-daily-solutions-cpp/
 
 ---
 
-# 📚 Categories Covered
-
-* Array
-* String
-* Hashing
-* Math
-* Binary Search
-* Linked List
-* Binary Tree
-* Matrix
-* Greedy
-* Sorting
-* Dynamic Programming
-* Prefix Sum
-* Simulation
-* Two Pointers
-* Digit DP
+# 📚 Problem Categories
+<p align=center>
+<img width="1231" height="516" alt="Image" src="https://github.com/user-attachments/assets/2e265d69-394e-4d25-9cef-9feeaeab2fe6" />
+</p>
 
 ---
 
@@ -158,7 +116,6 @@ leetcode-daily-solutions-cpp/
 * LeetCode Daily Challenge
 * Striver A2Z DSA Sheet
 * NeetCode Roadmap
-* LeetCode Weekly Contests
 
 ---
 
