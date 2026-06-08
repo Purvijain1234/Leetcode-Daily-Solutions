@@ -76,6 +76,7 @@ The main goal of this repository is to:
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp) | Easy | O(n) | O(1) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [C++](./2001-3000/2126_Destroying_Asteroids.cpp) | Medium | O(n log n) | O(1) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [C++](./2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp) | Easy | O(n log n) | O(1) |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [C++](./2001-3000/2161_Partition_Array_According_to_Given_Pivot.cpp) | Medium | O(n) | O(n) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp) | Easy | O(n × d) | O(1) |
 | 3633 | [Earliest Finish Time for Land and Water Rides](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides/) | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp) | Easy | O(n × m) | O(1) |
 | 3633 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides/) | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp) | Medium | O((n+m) log(n+m)) | O(n+m) |
@@ -127,15 +128,6 @@ The main goal of this repository is to:
 
 ---
 
-# 👆👇 Two Pointers
-
-| #  | Problem                                                                                                   | Solution                                                        | Difficulty | Time | Space |
-| -- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- | ---- | ----- |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n) | O(1)  |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-1000/0027_Remove_Element.cpp)                      | Easy       | O(n) | O(1)  |
-
----
-
 # 🔗 Linked List
 
 | #  | Problem                                                                         | Solution                                           | Difficulty | Time     | Space |
@@ -167,8 +159,8 @@ The main goal of this repository is to:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 16     |
-| Medium     | 6      |
-| Hard       | 1      |
+| Medium     | 8      |
+| Hard       | 2      |
 
 ---
 
