@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 16     |
-| 🟡 Medium  | 9      |
+| 🟡 Medium  | 10      |
 | 🔴 Hard    | 0      |
 
-**Total Problems Solved: 24**
+**Total Problems Solved: 26**
 
 </div>
 
@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 2196        | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)                             | Binary Tree, Hashing   | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2196_Create_Binary_Tree_From_Descriptions.cpp)               |
 | 3120        | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                     | String, Hashing        | Easy       | O(n)             | O(1)        | [C++](./3001-4000/3120_Count_the_Number_of_Special_Characters_I.cpp)           |
 | 3121        | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                   | String, Hashing        | Medium     | O(n)             | O(1)        | [C++](./3001-4000/3121_Count_the_Number_of_Special_Characters_II.cpp)          |
+| 3281 | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | Array, Math, Greedy | Medium | O(n) | O(1) | [C++](./3001-4000/3281_Maximize_Score_of_Numbers_in_Ranges.cpp) |
 | 3300        | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)     | Array, Math            | Easy       | O(n×d)           | O(1)        | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp)   |
 | 3633        | Earliest Finish Time for Land and Water Rides                                                                                           | Array, Binary Search   | Medium     | O((n+m)log(n+m)) | O(n+m)      | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp)      |
 | 3751        | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)                             | Digit DP, Math         | Medium     | Digit DP         | Digit DP    | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp)               |
