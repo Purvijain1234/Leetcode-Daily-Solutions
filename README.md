@@ -56,11 +56,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 16     |
+| 🟢 Easy    | 17     |
 | 🟡 Medium  | 11     |
 | 🔴 Hard    | 2      |
 
-**Total Problems Solved: 29**
+**Total Problems Solved: 30**
 
 </div>
 
@@ -99,6 +99,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3619 | [Count Edge Weight Assignments I](https://leetcode.com/problems/count-edge-weight-assignments-i/) | Tree, Graph, BFS, Math, Binary Exponentiation | Medium | O(n) | O(n) | [C++](./3001-4000/3619_Count_Edge_Weight_Assignments_I.cpp) |
 | 3633        | Earliest Finish Time for Land and Water Rides                                                                                           | Array, Binary Search   | Medium     | O((n+m)log(n+m)) | O(n+m)      | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp)      |
 | 3751        | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)                             | Digit DP, Math         | Medium     | Digit DP         | Digit DP    | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp)               |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Array, String, Simulation, Math | Easy | O(total_characters) | O(1) | [C++](./3001-4000/3838_Weighted_Word_Mapping.cpp) |
 
 ---
 
