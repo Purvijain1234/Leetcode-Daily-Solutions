@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 17     |
-| 🟡 Medium  | 12     |
-| 🔴 Hard    | 2      |
+| 🟡 Medium  | 14     |
+| 🔴 Hard    | 3      |
 
-**Total Problems Solved: 31**
+**Total Problems Solved: 34**
 
 </div>
 
@@ -98,6 +98,8 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3282 | [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | Array, Heap, Sparse Table, Greedy | Hard | O(n log n + k log n) | O(n log n) | [C++](./3001-4000/3282_Reach_End_of_Array_With_Max_Score.cpp) |
 | 3300        | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)     | Array, Math            | Easy       | O(n×d)           | O(1)        | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp)   |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Tree, Graph, LCA, Binary Lifting, DFS, Math, Binary Exponentiation | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.cpp) |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | String, Simulation, Stack | Medium | O(n + generated_string_size) | O(generated_string_size) | [C++](./3001-4000/3612_Process_String_With_Special_Operations_I.cpp) |
+| 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String, Simulation, Reverse Thinking, Math | Hard | O(n) | O(n) | [C++](./3001-4000/3614_Process_String_With_Special_Operations_II.cpp) |
 | 3619 | [Count Edge Weight Assignments I](https://leetcode.com/problems/count-edge-weight-assignments-i/) | Tree, Graph, BFS, Math, Binary Exponentiation | Medium | O(n) | O(n) | [C++](./3001-4000/3619_Count_Edge_Weight_Assignments_I.cpp) |
 | 3633        | Earliest Finish Time for Land and Water Rides                                                                                           | Array, Binary Search   | Medium     | O((n+m)log(n+m)) | O(n+m)      | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp)      |
 | 3751        | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)                             | Digit DP, Math         | Medium     | Digit DP         | Digit DP    | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp)               |
