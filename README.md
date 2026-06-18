@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 17     |
-| 🟡 Medium  | 14     |
+| 🟡 Medium  | 15     |
 | 🔴 Hard    | 3      |
 
-**Total Problems Solved: 34**
+**Total Problems Solved: 35**
 
 </div>
 
@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
 | 566         | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                 | Matrix, Array          | Easy       | O(m×n)           | O(r×c)      | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp)                                 |
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
+| 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Math, Geometry | Medium | O(1) | O(1) | [C++](./1001-2000/1344_Angle_Between_Hands_of_a_Clock.cpp) |
 | 1752        | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                             | Array                  | Easy       | O(n)             | O(1)        | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp)               |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List, Two Pointers | Medium | O(n) | O(1) | [C++](./2001-3000/2095_Delete_the_Middle_Node_of_a_Linked_List.cpp) |
 | 2126        | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)                                                             | Array, Greedy, Sorting | Medium     | O(n log n)       | O(1)        | [C++](./2001-3000/2126_Destroying_Asteroids.cpp)                               |
