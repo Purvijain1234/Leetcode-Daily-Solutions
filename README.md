@@ -56,11 +56,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 18     |
+| 🟢 Easy    | 19     |
 | 🟡 Medium  | 16     |
 | 🔴 Hard    | 4      |
 
-**Total Problems Solved: 38**
+**Total Problems Solved: 39**
 
 </div>
 
@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
 | 566         | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                 | Matrix, Array          | Easy       | O(m×n)           | O(r×c)      | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp)                                 |
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Math, Geometry | Medium | O(1) | O(1) | [C++](./1001-2000/1344_Angle_Between_Hands_of_a_Clock.cpp) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array, Prefix Sum | Easy | O(n) | O(1) | [C++](./1001-2000/1732_Find_the_Highest_Altitude.cpp) |
 | 1752        | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                             | Array                  | Easy       | O(n)             | O(1)        | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp)               |
