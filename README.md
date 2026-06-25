@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 19     |
-| 🟡 Medium  | 16     |
+| 🟡 Medium  | 17     |
 | 🔴 Hard    | 6      |
 
-**Total Problems Solved: 41**
+**Total Problems Solved: 42**
 
 </div>
 
@@ -108,6 +108,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3619 | [Count Edge Weight Assignments I](https://leetcode.com/problems/count-edge-weight-assignments-i/) | Tree, Graph, BFS, Math, Binary Exponentiation | Medium | O(n) | O(n) | [C++](./3001-4000/3619_Count_Edge_Weight_Assignments_I.cpp) |
 | 3633        | Earliest Finish Time for Land and Water Rides                                                                                           | Array, Binary Search   | Medium     | O((n+m)log(n+m)) | O(n+m)      | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp)      |
 | 3700 | [ZigZag Arrays II](https://leetcode.com/problems/zigzag-arrays-ii/) | Dynamic Programming, Matrix Exponentiation, Math, State Compression | Hard | O((2m)³ log n) | O((2m)²) | [C++](./3001-4000/3700_ZigZag_Arrays_II.cpp) |
+| 3737 | [Count Majority Subarrays](https://leetcode.com/problems/count-majority-subarrays/) | Array, Prefix Sum, Fenwick Tree (Binary Indexed Tree), Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3737_Count_Majority_Subarrays.cpp) |
 | 3751        | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)                             | Digit DP, Math         | Medium     | Digit DP         | Digit DP    | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp)               |
 | 3763 | [Zig-Zag Arrays I](https://leetcode.com/problems/zig-zag-arrays-i/) | Dynamic Programming, Prefix Sum, Math | Hard | O(n × m) | O(m) | [C++](./3001-4000/3763_Zig_Zag_Arrays_I.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Array, String, Simulation, Math | Easy | O(total_characters) | O(1) | [C++](./3001-4000/3838_Weighted_Word_Mapping.cpp) |
