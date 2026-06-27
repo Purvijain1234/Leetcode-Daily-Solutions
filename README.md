@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 19     |
-| 🟡 Medium  | 17     |
+| 🟡 Medium  | 18     |
 | 🔴 Hard    | 7      |
 
-**Total Problems Solved: 43**
+**Total Problems Solved: 44**
 
 </div>
 
@@ -97,6 +97,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 2144        | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)             | Greedy, Sorting        | Easy       | O(n log n)       | O(1)        | [C++](./2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp)       |
 | 2161        | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)                     | Array, Two Pointers    | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2161_Partition_Array_According_to_Given_Pivot.cpp)           |
 | 2196        | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)                             | Binary Tree, Hashing   | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2196_Create_Binary_Tree_From_Descriptions.cpp)               |
+| 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Array, Hash Table, Greedy, Math | Medium | O(n log log M) | O(n) | [C++](./3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.cpp) |
 | 3120        | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                     | String, Hashing        | Easy       | O(n)             | O(1)        | [C++](./3001-4000/3120_Count_the_Number_of_Special_Characters_I.cpp)           |
 | 3121        | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                   | String, Hashing        | Medium     | O(n)             | O(1)        | [C++](./3001-4000/3121_Count_the_Number_of_Special_Characters_II.cpp)          |
 | 3281 | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | Array, Math, Greedy | Medium | O(n) | O(1) | [C++](./3001-4000/3281_Maximize_Score_of_Numbers_in_Ranges.cpp) |
