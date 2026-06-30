@@ -56,11 +56,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 19     |
-| 🟡 Medium  | 18     |
+| 🟢 Easy    | 20     |
+| 🟡 Medium  | 19     |
 | 🔴 Hard    | 7      |
 
-**Total Problems Solved: 44**
+**Total Problems Solved: 46**
 
 </div>
 
@@ -91,6 +91,8 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 1752        | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                             | Array                  | Easy       | O(n)             | O(1)        | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp)               |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Array, Greedy, Counting Sort | Medium | O(n + maxCost) | O(maxCost) | [C++](./1001-2000/1833_Maximum_Ice_Cream_Bars.cpp) |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Array, Greedy, Math, Sorting | Hard | O(m log m) | O(1) | [C++](./1001-2000/1840_Maximum_Building_Height.cpp) |
+| 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Array, Greedy, Sorting | Medium | O(n log n) | O(1) | [C++](./1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp) |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | String, String Matching | Easy | O(p × n × m) | O(1) | [C++](./1001-2000/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List, Two Pointers | Medium | O(n) | O(1) | [C++](./2001-3000/2095_Delete_the_Middle_Node_of_a_Linked_List.cpp) |
 | 2126        | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)                                                             | Array, Greedy, Sorting | Medium     | O(n log n)       | O(1)        | [C++](./2001-3000/2126_Destroying_Asteroids.cpp)                               |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Linked List, Two Pointers | Medium | O(n) | O(1) | [C++](./2001-3000/2130_Maximum_Twin_Sum_of_a_Linked_List.cpp) |
