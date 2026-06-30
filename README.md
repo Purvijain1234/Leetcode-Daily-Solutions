@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 20     |
-| 🟡 Medium  | 19     |
+| 🟡 Medium  | 20     |
 | 🔴 Hard    | 7      |
 
-**Total Problems Solved: 46**
+**Total Problems Solved: 47**
 
 </div>
 
@@ -87,6 +87,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Math, Geometry | Medium | O(1) | O(1) | [C++](./1001-2000/1344_Angle_Between_Hands_of_a_Clock.cpp) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | String, Sliding Window, Two Pointers | Medium | O(n) | O(1) | [C++](./1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.cpp) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array, Prefix Sum | Easy | O(n) | O(1) | [C++](./1001-2000/1732_Find_the_Highest_Altitude.cpp) |
 | 1752        | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                             | Array                  | Easy       | O(n)             | O(1)        | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp)               |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Array, Greedy, Counting Sort | Medium | O(n + maxCost) | O(maxCost) | [C++](./1001-2000/1833_Maximum_Ice_Cream_Bars.cpp) |
