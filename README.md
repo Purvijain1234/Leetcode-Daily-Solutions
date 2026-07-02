@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 20     |
-| 🟡 Medium  | 21     |
+| 🟡 Medium  | 22     |
 | 🔴 Hard    | 7      |
 
-**Total Problems Solved: 48**
+**Total Problems Solved: 49**
 
 </div>
 
@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3121        | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                   | String, Hashing        | Medium     | O(n)             | O(1)        | [C++](./3001-4000/3121_Count_the_Number_of_Special_Characters_II.cpp)          |
 | 3281 | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | Array, Math, Greedy | Medium | O(n) | O(1) | [C++](./3001-4000/3281_Maximize_Score_of_Numbers_in_Ranges.cpp) |
 | 3282 | [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | Array, Heap, Sparse Table, Greedy | Hard | O(n log n + k log n) | O(n log n) | [C++](./3001-4000/3282_Reach_End_of_Array_With_Max_Score.cpp) |
+| 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Graph, 0-1 BFS, Deque, Matrix, Shortest Path | Medium | O(m × n) | O(m × n) | [C++](./3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.cpp) |
 | 3300        | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)     | Array, Math            | Easy       | O(n×d)           | O(1)        | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp)   |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Tree, Graph, LCA, Binary Lifting, DFS, Math, Binary Exponentiation | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.cpp) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | String, Simulation, Stack | Medium | O(n + generated_string_size) | O(generated_string_size) | [C++](./3001-4000/3612_Process_String_With_Special_Operations_I.cpp) |
