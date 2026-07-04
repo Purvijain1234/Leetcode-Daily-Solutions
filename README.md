@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 20     |
-| 🟡 Medium  | 22     |
+| 🟡 Medium  | 24     |
 | 🔴 Hard    | 7      |
 
-**Total Problems Solved: 49**
+**Total Problems Solved: 51**
 
 </div>
 
@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 2144        | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)             | Greedy, Sorting        | Easy       | O(n log n)       | O(1)        | [C++](./2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp)       |
 | 2161        | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)                     | Array, Two Pointers    | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2161_Partition_Array_According_to_Given_Pivot.cpp)           |
 | 2196        | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)                             | Binary Tree, Hashing   | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2196_Create_Binary_Tree_From_Descriptions.cpp)               |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Graph, DFS, BFS | Medium | O(n + m) | O(n + m) | [C++](./2001-3000/2492_Minimum_Score_of_a_Path_Between_Two_Cities.cpp) |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Graph, BFS, Binary Search, Matrix | Medium | O(n² log n) | O(n²) | [C++](./2001-3000/2812_Find_the_Safest_Path_in_a_Grid.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Array, Hash Table, Greedy, Math | Medium | O(n log log M) | O(n) | [C++](./3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.cpp) |
 | 3120        | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                     | String, Hashing        | Easy       | O(n)             | O(1)        | [C++](./3001-4000/3120_Count_the_Number_of_Special_Characters_I.cpp)           |
