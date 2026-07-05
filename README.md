@@ -2,8 +2,6 @@
     
 # 🚀 LeetCode Daily Solutions in C++
 
-# By Purvi Jain
-
 ### Solving LeetCode Daily Challenges • Mastering DSA • Building Consistency
 
 <p>
