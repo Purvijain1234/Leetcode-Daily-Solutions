@@ -54,11 +54,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 20     |
+| 🟢 Easy    | 21     |
 | 🟡 Medium  | 25     |
 | 🔴 Hard    | 8      |
 
-**Total Problems Solved: 53**
+**Total Problems Solved: 54**
 
 </div>
 
@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3737 | [Count Majority Subarrays](https://leetcode.com/problems/count-majority-subarrays/) | Array, Prefix Sum, Fenwick Tree (Binary Indexed Tree), Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3737_Count_Majority_Subarrays.cpp) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Array, Prefix Sum, Fenwick Tree, Coordinate Compression, Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3739_Count_Subarrays_With_Majority_Element_II.cpp) |
 | 3751        | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)                             | Digit DP, Math         | Medium     | Digit DP         | Digit DP    | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp)               |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Math, String, Simulation | Easy | O(d) | O(d) | [C++](./3001-4000/3754_Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.cpp) |
 | 3763 | [Zig-Zag Arrays I](https://leetcode.com/problems/zig-zag-arrays-i/) | Dynamic Programming, Prefix Sum, Math | Hard | O(n × m) | O(m) | [C++](./3001-4000/3763_Zig_Zag_Arrays_I.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Array, String, Simulation, Math | Easy | O(total_characters) | O(1) | [C++](./3001-4000/3838_Weighted_Word_Mapping.cpp) |
 
