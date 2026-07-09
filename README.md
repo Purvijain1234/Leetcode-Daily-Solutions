@@ -55,10 +55,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 21     |
-| 🟡 Medium  | 25     |
+| 🟡 Medium  | 27     |
 | 🔴 Hard    | 8      |
 
-**Total Problems Solved: 54**
+**Total Problems Solved: 56**
 
 </div>
 
@@ -109,6 +109,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3282 | [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | Array, Heap, Sparse Table, Greedy | Hard | O(n log n + k log n) | O(n log n) | [C++](./3001-4000/3282_Reach_End_of_Array_With_Max_Score.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Graph, 0-1 BFS, Deque, Matrix, Shortest Path | Medium | O(m × n) | O(m × n) | [C++](./3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.cpp) |
 | 3300        | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)     | Array, Math            | Easy       | O(n×d)           | O(1)        | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp)   |
+| 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Graph, Connected Components, Array | Medium | O(n + q) | O(n) | [C++](./3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.cpp) |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Tree, Graph, LCA, Binary Lifting, DFS, Math, Binary Exponentiation | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.cpp) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | String, Simulation, Stack | Medium | O(n + generated_string_size) | O(generated_string_size) | [C++](./3001-4000/3612_Process_String_With_Special_Operations_I.cpp) |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String, Simulation, Reverse Thinking, Math | Hard | O(n) | O(n) | [C++](./3001-4000/3614_Process_String_With_Special_Operations_II.cpp) |
