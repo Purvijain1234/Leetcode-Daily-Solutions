@@ -5,10 +5,6 @@
 ### Solving LeetCode Daily Challenges • Mastering DSA • Building Consistency
 
 <p>
-A curated collection of my <b>LeetCode Daily Challenge</b> solutions implemented in <b>C++</b>.
-</p>
-
-<p>
 This repository documents my daily problem-solving journey, interview preparation, and Data Structures & Algorithms practice.
 </p>
 
