@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 21     |
-| 🟡 Medium  | 27     |
+| 🟢 Easy    | 22     |
+| 🟡 Medium  | 28     |
 | 🔴 Hard    | 9      |
 
-**Total Problems Solved: 57**
+**Total Problems Solved: 59**
 
 </div>
 
@@ -81,7 +81,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Array, Sorting, Greedy | Medium | O(n log n) | O(1) | [C++](./1001-2000/1288_Remove_Covered_Intervals.cpp) |
-| 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Dynamic Programming, Matrix | Hard | O(n²) | O(n²) | [C++](./1001-2000/1301_Number_of_Paths_with_Max_Score.cpp) |
+| 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Dynamic Programming, Matrix | Hard | O(n²) | O(n²) | [C++]| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array, Sorting, Hash Table | Easy | O(n log n) | O(n) | [C++](./1001-2000/1331_Rank_Transform_of_an_Array.cpp) |(./1001-2000/1301_Number_of_Paths_with_Max_Score.cpp) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Math, Geometry | Medium | O(1) | O(1) | [C++](./1001-2000/1344_Angle_Between_Hands_of_a_Clock.cpp) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | String, Sliding Window, Two Pointers | Medium | O(n) | O(1) | [C++](./1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.cpp) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array, Prefix Sum | Easy | O(n) | O(1) | [C++](./1001-2000/1732_Find_the_Highest_Altitude.cpp) |
@@ -97,6 +97,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 2161        | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)                     | Array, Two Pointers    | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2161_Partition_Array_According_to_Given_Pivot.cpp)           |
 | 2196        | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)                             | Binary Tree, Hashing   | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2196_Create_Binary_Tree_From_Descriptions.cpp)               |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Graph, DFS, BFS | Medium | O(n + m) | O(n + m) | [C++](./2001-3000/2492_Minimum_Score_of_a_Path_Between_Two_Cities.cpp) |
+| 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Graph, DFS, Connected Components | Medium | O(n + m) | O(n + m) | [C++](./2001-3000/2685_Count_the_Number_of_Complete_Components.cpp) |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Graph, BFS, Binary Search, Matrix | Medium | O(n² log n) | O(n²) | [C++](./2001-3000/2812_Find_the_Safest_Path_in_a_Grid.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Array, Hash Table, Greedy, Math | Medium | O(n log log M) | O(n) | [C++](./3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.cpp) |
 | 3120        | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                     | String, Hashing        | Easy       | O(n)             | O(1)        | [C++](./3001-4000/3120_Count_the_Number_of_Special_Characters_I.cpp)           |
