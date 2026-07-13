@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 22     |
-| 🟡 Medium  | 28     |
+| 🟡 Medium  | 29     |
 | 🔴 Hard    | 9      |
 
-**Total Problems Solved: 59**
+**Total Problems Solved: 60**
 
 </div>
 
@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Array, Sorting, Greedy | Medium | O(n log n) | O(1) | [C++](./1001-2000/1288_Remove_Covered_Intervals.cpp) |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Math, Enumeration, String | Medium | O(1) | O(1) | [C++](./1001-2000/1291_Sequential_Digits.cpp) |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Dynamic Programming, Matrix | Hard | O(n²) | O(n²) | [C++]| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array, Sorting, Hash Table | Easy | O(n log n) | O(n) | [C++](./1001-2000/1331_Rank_Transform_of_an_Array.cpp) |(./1001-2000/1301_Number_of_Paths_with_Max_Score.cpp) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Math, Geometry | Medium | O(1) | O(1) | [C++](./1001-2000/1344_Angle_Between_Hands_of_a_Clock.cpp) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | String, Sliding Window, Two Pointers | Medium | O(n) | O(1) | [C++](./1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.cpp) |
