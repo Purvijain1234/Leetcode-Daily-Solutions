@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 22     |
+| 🟢 Easy    | 23     |
 | 🟡 Medium  | 29     |
 | 🔴 Hard    | 10      |
 
-**Total Problems Solved: 61**
+**Total Problems Solved: 62**
 
 </div>
 
@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String, Simulation, Reverse Thinking, Math | Hard | O(n) | O(n) | [C++](./3001-4000/3614_Process_String_With_Special_Operations_II.cpp) |
 | 3619 | [Count Edge Weight Assignments I](https://leetcode.com/problems/count-edge-weight-assignments-i/) | Tree, Graph, BFS, Math, Binary Exponentiation | Medium | O(n) | O(n) | [C++](./3001-4000/3619_Count_Edge_Weight_Assignments_I.cpp) |
 | 3633        | Earliest Finish Time for Land and Water Rides                                                                                           | Array, Binary Search   | Medium     | O((n+m)log(n+m)) | O(n+m)      | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp)      |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Math, Number Theory | Easy | O(1) | O(1) | [C++](./3001-4000/3658_GCD_of_Odd_and_Even_Sums.cpp) |
 | 3700 | [ZigZag Arrays II](https://leetcode.com/problems/zigzag-arrays-ii/) | Dynamic Programming, Matrix Exponentiation, Math, State Compression | Hard | O((2m)³ log n) | O((2m)²) | [C++](./3001-4000/3700_ZigZag_Arrays_II.cpp) |
 | 3737 | [Count Majority Subarrays](https://leetcode.com/problems/count-majority-subarrays/) | Array, Prefix Sum, Fenwick Tree (Binary Indexed Tree), Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3737_Count_Majority_Subarrays.cpp) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Array, Prefix Sum, Fenwick Tree, Coordinate Compression, Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3739_Count_Subarrays_With_Majority_Element_II.cpp) |
