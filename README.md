@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 23     |
+| 🟢 Easy    | 24    |
 | 🟡 Medium  | 30     |
 | 🔴 Hard    | 11     |
 
-**Total Problems Solved: 64**
+**Total Problems Solved: 65**
 
 </div>
 
@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Array, Greedy, Math, Sorting | Hard | O(m log m) | O(1) | [C++](./1001-2000/1840_Maximum_Building_Height.cpp) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Array, Greedy, Sorting | Medium | O(n log n) | O(1) | [C++](./1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | String, String Matching | Easy | O(p × n × m) | O(1) | [C++](./1001-2000/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp) |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Array, Math, Number Theory | Easy | O(n) | O(1) | [C++](./1001-2000/1979_Find_Greatest_Common_Divisor_of_Array.cpp) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List, Two Pointers | Medium | O(n) | O(1) | [C++](./2001-3000/2095_Delete_the_Middle_Node_of_a_Linked_List.cpp) |
 | 2126        | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)                                                             | Array, Greedy, Sorting | Medium     | O(n log n)       | O(1)        | [C++](./2001-3000/2126_Destroying_Asteroids.cpp)                               |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Linked List, Two Pointers | Medium | O(n) | O(1) | [C++](./2001-3000/2130_Maximum_Twin_Sum_of_a_Linked_List.cpp) |
