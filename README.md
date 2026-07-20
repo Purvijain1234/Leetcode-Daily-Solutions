@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 24    |
-| 🟡 Medium  | 30     |
+| 🟢 Easy    | 25    |
+| 🟡 Medium  | 31    |
 | 🔴 Hard    | 11     |
 
-**Total Problems Solved: 65**
+**Total Problems Solved: 67**
 
 </div>
 
@@ -79,7 +79,9 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
 | 566         | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                 | Matrix, Array          | Easy       | O(m×n)           | O(r×c)      | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp)                                 |
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | String, Stack, Greedy, Monotonic Stack | Medium | O(n) | O(1) | [C++](./1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.cpp) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Array, Matrix, Simulation | Easy | O(m × n) | O(m × n) | [C++](./1001-2000/1260_Shift_2D_Grid.cpp) 
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Array, Sorting, Greedy | Medium | O(n log n) | O(1) | [C++](./1001-2000/1288_Remove_Covered_Intervals.cpp) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Math, Enumeration, String | Medium | O(1) | O(1) | [C++](./1001-2000/1291_Sequential_Digits.cpp) |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Dynamic Programming, Matrix | Hard | O(n²) | O(n²) | [C++]| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array, Sorting, Hash Table | Easy | O(n log n) | O(n) | [C++](./1001-2000/1331_Rank_Transform_of_an_Array.cpp) |(./1001-2000/1301_Number_of_Paths_with_Max_Score.cpp) |
