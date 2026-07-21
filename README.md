@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 25    |
-| 🟡 Medium  | 31    |
+| 🟡 Medium  | 32    |
 | 🔴 Hard    | 11     |
 
-**Total Problems Solved: 67**
+**Total Problems Solved: 68**
 
 </div>
 
@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3300        | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)     | Array, Math            | Easy       | O(n×d)           | O(1)        | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp)   |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Math, Number Theory, Prefix Sum, Binary Search, Inclusion-Exclusion, Counting | Hard | O(M log M + Q log M) | O(M) | [C++](./3001-4000/3312_Sorted_GCD_Pair_Queries.cpp) |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Dynamic Programming, Math, GCD, Number Theory | Hard | O(n × M² × logM) | O(M²) | [C++](./3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.cpp) |
+| 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | String, Greedy, Simulation, Run-Length Encoding | Medium | O(n) | O(n) | [C++](./3001-4000/3499_Maximize_Active_Section_with_Trade_I.cpp) |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Graph, Connected Components, Array | Medium | O(n + q) | O(n) | [C++](./3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.cpp) |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Graph, Sorting, Binary Lifting, Greedy, Array | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.cpp) |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Tree, Graph, LCA, Binary Lifting, DFS, Math, Binary Exponentiation | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.cpp) |
