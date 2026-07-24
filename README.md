@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 25    |
-| 🟡 Medium  | 33    |
+| 🟡 Medium  | 34    |
 | 🔴 Hard    | 12     |
 
-**Total Problems Solved: 70**
+**Total Problems Solved: 71**
 
 </div>
 
@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | String, Greedy, Simulation, Run-Length Encoding | Medium | O(n) | O(n) | [C++](./3001-4000/3499_Maximize_Active_Section_with_Trade_I.cpp) |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | String, Greedy, Binary Search, Sparse Table, RMQ, Run-Length Encoding | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3501_Maximize_Active_Section_with_Trade_II.cpp) |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Bit Manipulation, Math, Array | Medium | O(log n) | O(1) | [C++](./3001-4000/3513_Number_of_Unique_XOR_Triplets_I.cpp) |
+| 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Bit Manipulation, Array, Hashing | Medium | O(n² + V × n) | O(V) | [C++](./3001-4000/3514_Number_of_Unique_XOR_Triplets_II.cpp) |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Graph, Connected Components, Array | Medium | O(n + q) | O(n) | [C++](./3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.cpp) |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Graph, Sorting, Binary Lifting, Greedy, Array | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.cpp) |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Tree, Graph, LCA, Binary Lifting, DFS, Math, Binary Exponentiation | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.cpp) |
