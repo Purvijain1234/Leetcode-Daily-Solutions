@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 25    |
+| 🟢 Easy    | 26    |
 | 🟡 Medium  | 34    |
 | 🔴 Hard    | 12     |
 
-**Total Problems Solved: 71**
+**Total Problems Solved: 72**
 
 </div>
 
@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Bit Manipulation, Array, Hashing | Medium | O(n² + V × n) | O(V) | [C++](./3001-4000/3514_Number_of_Unique_XOR_Triplets_II.cpp) |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Graph, Connected Components, Array | Medium | O(n + q) | O(n) | [C++](./3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.cpp) |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Graph, Sorting, Binary Lifting, Greedy, Array | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.cpp) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Math, Digit Manipulation | Easy | O(d) | O(1) | [C++](./3001-4000/3536_Maximum_Product_of_Two_Digits.cpp) |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Tree, Graph, LCA, Binary Lifting, DFS, Math, Binary Exponentiation | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.cpp) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | String, Simulation, Stack | Medium | O(n + generated_string_size) | O(generated_string_size) | [C++](./3001-4000/3612_Process_String_With_Special_Operations_I.cpp) |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String, Simulation, Reverse Thinking, Math | Hard | O(n) | O(n) | [C++](./3001-4000/3614_Process_String_With_Special_Operations_II.cpp) |
