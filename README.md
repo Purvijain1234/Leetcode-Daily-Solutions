@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 26    |
+| 🟢 Easy    | 27    |
 | 🟡 Medium  | 34    |
 | 🔴 Hard    | 12     |
 
-**Total Problems Solved: 72**
+**Total Problems Solved: 73**
 
 </div>
 
@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 66          | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     | Array, Math            | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0066_Plus_One.cpp)                                           |
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
 | 566         | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                 | Matrix, Array          | Easy       | O(m×n)           | O(r×c)      | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp)                                 |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Array, Math, Greedy | Easy | O(n) | O(1) | [C++](./0001-1000/0628_Maximum_Product_of_Three_Numbers.cpp) |
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | String, Stack, Greedy, Monotonic Stack | Medium | O(n) | O(1) | [C++](./1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.cpp) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
