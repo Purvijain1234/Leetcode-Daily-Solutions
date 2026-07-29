@@ -52,9 +52,9 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | ---------- | ------ |
 | 🟢 Easy    | 28    |
 | 🟡 Medium  | 35    |
-| 🔴 Hard    | 12     |
+| 🔴 Hard    | 13    |
 
-**Total Problems Solved: 75**
+**Total Problems Solved: 76**
 
 </div>
 
@@ -119,6 +119,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Bit Manipulation, Math, Array | Medium | O(log n) | O(1) | [C++](./3001-4000/3513_Number_of_Unique_XOR_Triplets_I.cpp) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Bit Manipulation, Array, Hashing | Medium | O(n² + V × n) | O(V) | [C++](./3001-4000/3514_Number_of_Unique_XOR_Triplets_II.cpp) |
 | 3517 | [Smallest Palindromic Rearrangement](https://leetcode.com/problems/smallest-palindromic-rearrangement/) | String, Hash Table, Greedy, Counting | Medium | O(n) | O(1) | [C++](./3517_Smallest_Palindromic_Rearrangement.cpp) |
+| 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | String, Greedy, Combinatorics, Math, Counting | Hard | O(26 × n²) | O(26) | [C++](./3001-4000/3518_Smallest_Palindromic_Rearrangement_II.cpp) |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Graph, Connected Components, Array | Medium | O(n + q) | O(n) | [C++](./3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.cpp) |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Graph, Sorting, Binary Lifting, Greedy, Array | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.cpp) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Math, Digit Manipulation | Easy | O(d) | O(1) | [C++](./3001-4000/3536_Maximum_Product_of_Two_Digits.cpp) |
