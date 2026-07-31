@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 29    |
-| 🟡 Medium  | 35    |
+| 🟡 Medium  | 36    |
 | 🔴 Hard    | 13    |
 
-**Total Problems Solved: 77**
+**Total Problems Solved: 78**
 
 </div>
 
@@ -107,6 +107,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Graph, BFS, Binary Search, Matrix | Medium | O(n² log n) | O(n²) | [C++](./2001-3000/2812_Find_the_Safest_Path_in_a_Grid.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Array, Hash Table, Greedy, Math | Medium | O(n log log M) | O(n) | [C++](./3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.cpp) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Greedy, String, Math | Easy | O(n) | O(1) | [C++](./3001-4000/3014_Minimum_Number_of_Pushes_to_Type_Word_I.cpp) |
+| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Greedy, String, Sorting, Counting | Medium | O(n + 26 log 26) | O(1) | [C++](./3001-4000/3016_Minimum_Number_of_Pushes_to_Type_Word_II.cpp) |
 | 3120        | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                     | String, Hashing        | Easy       | O(n)             | O(1)        | [C++](./3001-4000/3120_Count_the_Number_of_Special_Characters_I.cpp)           |
 | 3121        | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                   | String, Hashing        | Medium     | O(n)             | O(1)        | [C++](./3001-4000/3121_Count_the_Number_of_Special_Characters_II.cpp)          |
 | 3281 | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | Array, Math, Greedy | Medium | O(n) | O(1) | [C++](./3001-4000/3281_Maximize_Score_of_Numbers_in_Ranges.cpp) |
