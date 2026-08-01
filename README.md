@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 29    |
-| 🟡 Medium  | 36    |
+| 🟡 Medium  | 37    |
 | 🔴 Hard    | 13    |
 
-**Total Problems Solved: 78**
+**Total Problems Solved: 79**
 
 </div>
 
@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 33          | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                         | Array, Binary Search   | Medium     | O(log n)         | O(1)        | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp)                     |
 | 66          | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     | Array, Math            | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0066_Plus_One.cpp)                                           |
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Dynamic Programming, Game Theory, Array | Medium | O(n²) | O(n²) | [C++](./0001-1000/0486_Predict_the_Winner.cpp) |
 | 566         | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                 | Matrix, Array          | Easy       | O(m×n)           | O(r×c)      | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp)                                 |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Array, Math, Greedy | Easy | O(n) | O(1) | [C++](./0001-1000/0628_Maximum_Product_of_Three_Numbers.cpp) |
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
