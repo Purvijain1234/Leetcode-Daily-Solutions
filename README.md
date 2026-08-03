@@ -52,9 +52,9 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | ---------- | ------ |
 | 🟢 Easy    | 29    |
 | 🟡 Medium  | 38    |
-| 🔴 Hard    | 13    |
+| 🔴 Hard    | 14    |
 
-**Total Problems Solved: 80**
+**Total Problems Solved: 81**
 
 </div>
 
@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Dynamic Programming, Matrix | Hard | O(n²) | O(n²) | [C++]| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Array, Sorting, Hash Table | Easy | O(n log n) | O(n) | [C++](./1001-2000/1331_Rank_Transform_of_an_Array.cpp) |(./1001-2000/1301_Number_of_Paths_with_Max_Score.cpp) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Math, Geometry | Medium | O(1) | O(1) | [C++](./1001-2000/1344_Angle_Between_Hands_of_a_Clock.cpp) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | String, Sliding Window, Two Pointers | Medium | O(n) | O(1) | [C++](./1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.cpp) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Dynamic Programming, Game Theory, Array | Hard | O(n) | O(n) | [C++](./1001-2000/1406_Stone_Game_III.cpp) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Array, Greedy | Easy | O(n) | O(1) | [C++](./1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.cpp) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array, Prefix Sum | Easy | O(n) | O(1) | [C++](./1001-2000/1732_Find_the_Highest_Altitude.cpp) |
 | 1752        | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                             | Array                  | Easy       | O(n)             | O(1)        | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp)               |
