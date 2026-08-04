@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 29    |
+| 🟢 Easy    | 30    |
 | 🟡 Medium  | 38    |
 | 🔴 Hard    | 14    |
 
-**Total Problems Solved: 81**
+**Total Problems Solved: 82**
 
 </div>
 
@@ -135,6 +135,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3633        | Earliest Finish Time for Land and Water Rides                                                                                           | Array, Binary Search   | Medium     | O((n+m)log(n+m)) | O(n+m)      | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp)      |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Math, Number Theory | Easy | O(1) | O(1) | [C++](./3001-4000/3658_GCD_of_Odd_and_Even_Sums.cpp) |
 | 3700 | [ZigZag Arrays II](https://leetcode.com/problems/zigzag-arrays-ii/) | Dynamic Programming, Matrix Exponentiation, Math, State Compression | Hard | O((2m)³ log n) | O((2m)²) | [C++](./3001-4000/3700_ZigZag_Arrays_II.cpp) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Array, Sorting | Easy | O(n log n) | O(1) | [C++](./3001-4000/3731_Find_Missing_Elements.cpp) |
 | 3737 | [Count Majority Subarrays](https://leetcode.com/problems/count-majority-subarrays/) | Array, Prefix Sum, Fenwick Tree (Binary Indexed Tree), Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3737_Count_Majority_Subarrays.cpp) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Array, Prefix Sum, Fenwick Tree, Coordinate Compression, Data Structures | Hard | O(n log n) | O(n) | [C++](./3001-4000/3739_Count_Subarrays_With_Majority_Element_II.cpp) |
 | 3751        | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)                             | Digit DP, Math         | Medium     | Digit DP         | Digit DP    | [C++](./3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.cpp)               |
