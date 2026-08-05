@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 30    |
-| 🟡 Medium  | 38    |
+| 🟡 Medium  | 39    |
 | 🔴 Hard    | 14    |
 
-**Total Problems Solved: 82**
+**Total Problems Solved: 83**
 
 </div>
 
@@ -117,6 +117,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3282 | [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | Array, Heap, Sparse Table, Greedy | Hard | O(n log n + k log n) | O(n log n) | [C++](./3001-4000/3282_Reach_End_of_Array_With_Max_Score.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Graph, 0-1 BFS, Deque, Matrix, Shortest Path | Medium | O(m × n) | O(m × n) | [C++](./3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.cpp) |
 | 3300        | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)     | Array, Math            | Easy       | O(n×d)           | O(1)        | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp)   |
+| 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Graph, BFS, DFS | Medium | O(n + m) | O(n + m) | [C++](./3001-4000/3310_Remove_Methods_From_Project.cpp) |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Math, Number Theory, Prefix Sum, Binary Search, Inclusion-Exclusion, Counting | Hard | O(M log M + Q log M) | O(M) | [C++](./3001-4000/3312_Sorted_GCD_Pair_Queries.cpp) |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Dynamic Programming, Math, GCD, Number Theory | Hard | O(n × M² × logM) | O(M²) | [C++](./3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.cpp) |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | String, Greedy, Simulation, Run-Length Encoding | Medium | O(n) | O(n) | [C++](./3001-4000/3499_Maximize_Active_Section_with_Trade_I.cpp) |
