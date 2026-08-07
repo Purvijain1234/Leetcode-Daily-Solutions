@@ -52,9 +52,9 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | ---------- | ------ |
 | 🟢 Easy    | 31    |
 | 🟡 Medium  | 39    |
-| 🔴 Hard    | 14    |
+| 🔴 Hard    | 15    |
 
-**Total Problems Solved: 84**
+**Total Problems Solved: 85**
 
 </div>
 
@@ -121,6 +121,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Math, Number Theory, Prefix Sum, Binary Search, Inclusion-Exclusion, Counting | Hard | O(M log M + Q log M) | O(M) | [C++](./3001-4000/3312_Sorted_GCD_Pair_Queries.cpp) |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Dynamic Programming, Math, GCD, Number Theory | Hard | O(n × M² × logM) | O(M²) | [C++](./3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.cpp) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Math, Brute Force, Digit Manipulation | Easy | O(k × d) | O(1) | [C++](./3001-4000/3345_Smallest_Divisible_Digit_Product_I.cpp) |
+| 3348 | [Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/) | Math, Dynamic Programming, Greedy | Hard | O(n × 9 × a × b) | O(n × a × b) | [C++](./3001-4000/3348_Smallest_Divisible_Digit_Product_II.cpp) |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | String, Greedy, Simulation, Run-Length Encoding | Medium | O(n) | O(n) | [C++](./3001-4000/3499_Maximize_Active_Section_with_Trade_I.cpp) |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | String, Greedy, Binary Search, Sparse Table, RMQ, Run-Length Encoding | Hard | O((n + q) log n) | O(n log n) | [C++](./3001-4000/3501_Maximize_Active_Section_with_Trade_II.cpp) |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Bit Manipulation, Math, Array | Medium | O(log n) | O(1) | [C++](./3001-4000/3513_Number_of_Unique_XOR_Triplets_I.cpp) |
