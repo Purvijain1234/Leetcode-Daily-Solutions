@@ -51,10 +51,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 31    |
-| 🟡 Medium  | 40    |
+| 🟡 Medium  | 41    |
 | 🔴 Hard    | 15    |
 
-**Total Problems Solved: 86**
+**Total Problems Solved: 87**
 
 </div>
 
@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Dynamic Programming, Game Theory, Array | Medium | O(n²) | O(n²) | [C++](./0001-1000/0877_Stone_Game.cpp) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | String, Stack, Greedy, Monotonic Stack | Medium | O(n) | O(1) | [C++](./1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.cpp) |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Array, Dynamic Programming, Game Theory, Prefix Sum | Medium | O(n³) | O(n²) | [C++](./1001-2000/1140_Stone_Game_II.cpp) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | String, Hash Table, Counting | Easy | O(n) | O(1) | [C++](./1001-2000/1189_Maximum_Number_of_Balloons.cpp) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Array, Matrix, Simulation | Easy | O(m × n) | O(m × n) | [C++](./1001-2000/1260_Shift_2D_Grid.cpp) 
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Array, Sorting, Greedy | Medium | O(n log n) | O(1) | [C++](./1001-2000/1288_Remove_Covered_Intervals.cpp) |
