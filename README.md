@@ -51,7 +51,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 35    |
-| 🟡 Medium  | 43    |
+| 🟡 Medium  | 44    |
 | 🔴 Hard    | 17    |
 
 **Total Problems Solved: 95**
@@ -153,6 +153,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Array, String, Simulation, Math | Easy | O(total_characters) | O(1) | [C++](./3001-4000/3838_Weighted_Word_Mapping.cpp) |
 | 3867 | [GCD Sum of Prefix Maximums](https://leetcode.com/problems/gcd-sum-of-prefix-maximums/) | Array, Math, Number Theory, Sorting | Medium | O(n log n) | O(n) | [C++](./3001-4000/3867_GCD_Sum_of_Prefix_Maximums.cpp) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Array, Math, Parity | Easy | O(1) | O(1) | [C++](./3001-4000/3875_Construct_Uniform_Parity_Array_I.cpp) |
+| 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Array, Math, Parity | Medium | O(n) | O(1) | [C++](./3001-4000/3876_Construct_Uniform_Parity_Array_II.cpp) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Array, Prefix Maximum, Suffix Minimum | Easy | O(n) | O(n) | [C++](./3001-4000/3903_Smallest_Stable_Index_I.cpp) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Array, Prefix Maximum, Suffix Minimum | Medium | O(n) | O(n) | [C++](./3001-4000/3904_Smallest_Stable_Index_II.cpp) |
 
