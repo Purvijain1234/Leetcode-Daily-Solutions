@@ -50,11 +50,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 33    |
+| 🟢 Easy    | 34    |
 | 🟡 Medium  | 42    |
 | 🔴 Hard    | 17    |
 
-**Total Problems Solved: 92**
+**Total Problems Solved: 93**
 
 </div>
 
@@ -152,6 +152,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 3763 | [Zig-Zag Arrays I](https://leetcode.com/problems/zig-zag-arrays-i/) | Dynamic Programming, Prefix Sum, Math | Hard | O(n × m) | O(m) | [C++](./3001-4000/3763_Zig_Zag_Arrays_I.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Array, String, Simulation, Math | Easy | O(total_characters) | O(1) | [C++](./3001-4000/3838_Weighted_Word_Mapping.cpp) |
 | 3867 | [GCD Sum of Prefix Maximums](https://leetcode.com/problems/gcd-sum-of-prefix-maximums/) | Array, Math, Number Theory, Sorting | Medium | O(n log n) | O(n) | [C++](./3001-4000/3867_GCD_Sum_of_Prefix_Maximums.cpp) |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Array, Prefix Maximum, Suffix Minimum | Easy | O(n) | O(n) | [C++](./3001-4000/3903_Smallest_Stable_Index_I.cpp) |
 
 ---
 
